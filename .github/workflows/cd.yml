@@ -1,4 +1,4 @@
-name: cmd
+name: cd
 
 on:
   push:
